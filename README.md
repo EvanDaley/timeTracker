@@ -1,6 +1,10 @@
 timeTracker
 -----------------------
 
+**
+FORKED FROM wende60/timeTracker
+**
+
 Based on Electron + Webpack + React + Sass + pouchdb.
 Features:
 - add or select a customer
@@ -11,8 +15,6 @@ Features:
 - export project's time records to a cvs file
 - select between german and english language
 - select date and time formt (dd.mm.yyy hh:mm 24h, yyyy/dd/mm hh:mm 12h, yyyy-mm-dd hh:mm 24h)
-
-Feel free to give feedback to the phrases as i am no native english speaker... feel free to give feedback anyways ;)
 
 UPDATES 2020
 - fixed a bug that occured while filtering for a month in the overview page
